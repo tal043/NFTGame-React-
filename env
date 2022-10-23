@@ -1,0 +1,17 @@
+# Wallet Priv Keys and Address
+HOUSE_PRIV_KEY = 58emvosmpdJQNkQreHMPofqyxRE6P7WdAXgzvuTxAM2WiNMS2QxtnKKVaxUgeKk8X5vsGewrc5uUNH4v38Zx6nos
+HOUSE_ADDR = k5RKjgZSKYA6U2DmgcPAqPeouQCVjhBW6Pok1tVHnE5
+HOLDER_ADDR = C5HT4eMGvrxoeZoDzbdT44oH8KiZLNQu6bRTiB22mNrZ
+HOLDER_PRIV_KEY = 4XfwnP9ZMg2KWwh6Uykw96e9NxyCzCJiHGJZfam4oD98S2NgVbZiUjyaeWxHj2k1PKkc6pA4J5SdzipGUGowMRDf
+
+# QucikNode Configuration - Testnet and Mainnet beta
+# use this for Testnet
+#  QUICK_NODE = https://morning-multi-arm.solana-testnet.quiknode.pro/22b4b8c2eb7cadba89b66fecf29008d0273da20e
+# use this for Mainnet Beta
+ QUICK_NODE = https://crimson-restless-snow.solana-mainnet.quiknode.pro/11d43354f689bbd1167c2a8f398cb486113da155
+
+# Database Configuration - Local or MLab
+# MLab
+DB_URL = mongodb+srv://root:password2021@cluster0.dcqaler.mongodb.net/?retryWrites=true&w=majority
+# Local
+# DB_URL = mongodb://localhost:27017
